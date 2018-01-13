@@ -9,7 +9,7 @@ def getHeroHeader():
     hero_num = len(hero_json)
     # print(hero_num)
 
-    save_dir = 'D:\\heroavatar\\'
+    save_dir = './heroavatar/'
     if not os.path.exists(save_dir):
         os.mkdir(save_dir)
 
