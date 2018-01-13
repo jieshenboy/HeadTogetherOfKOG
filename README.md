@@ -3,19 +3,19 @@
   
   ![Aaron Swartz](/com/showData/HeadTogether.jpg)
 
-##项目结果如图上所示
+## 项目结果如图上所示
 
-##项目环境
+## 项目环境
 
-####python3.x
+#### python3.x
 
-##使用方法
+## 使用方法
 
 可以点击项目中的com/main.py文件，即可自动执行
 
-##项目说明
+## 项目说明
 
-###图片来源
+### 图片来源
 
 通过浏览王者荣耀游戏官网英雄资料，网址为http://pvp.qq.com/web201605/herolist.shtml
 打开浏览器开发者工具（浏览器控制台），可以看到有一串JavaScript脚本
