@@ -1,6 +1,6 @@
 # HeadTogetherOfKOG
 王者荣耀英雄头像拼接
-![Aaron Swartz](/master/com/showData/HeadTogether.jpg)
+![Aaron Swartz](/com/showData/HeadTogether.jpg)
 ##项目结果如图上所示
 ##项目环境
 ####python3.x
